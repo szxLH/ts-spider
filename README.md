@@ -1,0 +1,2 @@
+# ts-spider
+typescript
