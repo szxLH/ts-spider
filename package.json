@@ -1,0 +1,19 @@
+{
+  "name": "test-typescript-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./out/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cheerio": "^0.22.6",
+    "@types/mongoose": "^4.7.28",
+    "@types/superagent": "^3.5.6",
+    "cheerio": "^1.0.0-rc.2",
+    "mongoose": "^4.13.6",
+    "superagent": "^3.8.1"
+  }
+}
