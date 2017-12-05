@@ -14,6 +14,6 @@ import cheerio = require('cheerio');
         console.log(err);
     }
 
-    console.log('完毕！');
+    console.log('Mission Complete!');
 
 })();
